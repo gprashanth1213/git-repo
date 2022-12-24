@@ -1,5 +1,4 @@
-<<<<<<< HEAD
 remote repo file3
-=======
+
 local file3.txt
->>>>>>> dace6e7 (again local file3.txt)
+
